@@ -1,2 +1,2 @@
 # program4
-this is my git lab four
+this is my git lab four for cloning
